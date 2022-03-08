@@ -1,0 +1,1 @@
+const t={key:"v-1fa17860",path:"/contribute-to-das/registrar.html",title:"Registrar",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646620759e3},filePathRelative:"contribute-to-das/registrar.md"};export{t as data};

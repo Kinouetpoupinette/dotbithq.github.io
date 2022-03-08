@@ -1,0 +1,1 @@
+const t={key:"v-8c715202",path:"/terminology.html",title:"Glossary",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164670726e4},filePathRelative:"terminology.md"};export{t as data};

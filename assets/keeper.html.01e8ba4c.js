@@ -1,0 +1,1 @@
+const e={key:"v-4a4147e3",path:"/contribute-to-das/keeper.html",title:"Keeper",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646621859e3},filePathRelative:"contribute-to-das/keeper.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-39ad4b0c",path:"/contribute-to-das/channel.html",title:"Channel",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646620759e3},filePathRelative:"contribute-to-das/channel.md"};export{t as data};

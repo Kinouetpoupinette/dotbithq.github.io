@@ -1,0 +1,1 @@
+const t={key:"v-54d2fb2e",path:"/zh/terminology.html",title:"\u672F\u8BED",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:164670726e4},filePathRelative:"zh/terminology.md"};export{t as data};

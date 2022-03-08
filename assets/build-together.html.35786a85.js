@@ -1,0 +1,1 @@
+const t={key:"v-4bfb80a6",path:"/zh/contribute-to-das/build-together.html",title:"\u53C2\u4E0E .bit \u5EFA\u8BBE",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646620759e3},filePathRelative:"zh/contribute-to-das/build-together.md"};export{t as data};

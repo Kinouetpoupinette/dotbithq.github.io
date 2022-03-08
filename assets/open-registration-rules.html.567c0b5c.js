@@ -1,0 +1,1 @@
+const e={key:"v-5a7c4786",path:"/register-das/open-registration-rules.html",title:"Open registration rules",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646621859e3},filePathRelative:"register-das/open-registration-rules.md"};export{e as data};
